@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <application_roles/>
+        <available_offline>false</available_offline>
+        <data_item display_value="Specified Request Type">a87e5f6cdb3e40107f8e1120399619dc</data_item>
+        <description>View all open NeedIt records for a specific Request type</description>
+        <fetch_type>not_required</fetch_type>
+        <hidden>false</hidden>
+        <icon display_value="comments">315267a0db7e40107f8e11203996197e</icon>
+        <item_view display_value="By Request Type detail item view">1a52e3a0db7e40107f8e11203996197a</item_view>
+        <name>Details</name>
+        <order>10</order>
+        <parent>f65267a0db7e40107f8e112039961983</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-03 09:37:03</sys_created_on>
+        <sys_id>3a52e7a0db7e40107f8e112039961909</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Details</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_details_screen_3a52e7a0db7e40107f8e112039961909</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-03 09:38:44</sys_updated_on>
+    </sys_sg_details_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=3a52e7a0db7e40107f8e112039961909"/>
+</record_update>
